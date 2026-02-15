@@ -1,20 +1,39 @@
-# Stay safe in those snowy mountains, no matter how you travel through them
+---
+title: "Snow Nav101.0 — Safety in Snowy Mountain Terrain"
+layout: post
+---
 
-Heyo! This is Caleb (commonly prounouced Caw-leeb 😏). 
+# Stay safe in snowy mountains — regardless of how you travel
 
-Whoever sent you here hopes to begin to equip you with the knowledge of safe mountainous winter terrain travel, regardless of the means by which you move through them. This baseline understanding **needs** to be reinforced with hands-on use of the planning, safety, and Search and Rescue (SAR) tools that we'll be talking about here.
-</div>
+Hey — Caleb here (commonly pronounced Caw-leeb 😏).
 
-<p class="lead"> This is meant to provide more info than the typical "YES, you should always bring a beacon, shovel, and probe into uncontrolled snowy mountainous terrain. NO, you should not go on or in the avy slide path of a 30° or greater slope." <a class="read-more" href="#full-intro">Read more</a></p>
+This guide is meant to equip you with baseline knowledge for safe travel in mountainous winter terrain. It supplements — but does not replace — hands-on training, formal courses, and practice with planning and Search and Rescue (SAR) tools.
 
-### The critical tools: 
-        - Beacon, shovel, and probe. 
-        - Smartphone/device with a [gradient shaded map app](https://caltopo.com/map.html#ll=39.53794,-109.66553&z=6&b=mbt&a=sf), and an inclinometer tool or app.
+> This guide expands on the usual advice: "Yes — bring a beacon, shovel, and probe. No — avoid avalanche paths on slopes ≥ 30°." <a href="#full-intro">Read more</a>
 
-### Smart to also have:
-        - First Aid Kit, Extra Layers 
+## Critical tools
 
-*While this content is not affiliated with any formal educational content, certifications, or AIARE Avalanche or winter Search and Rescue (SAR) courses, your **[AIARE Level II certified author](AII link and/or cert doc here)** has been vetted by way of his curiousity and observations from two+ decades of conquering mountains in almost every possible way.*
+- Beacon, shovel, and probe
+- Smartphone or device with a gradient-shaded map (example: CalTopo) and an inclinometer app
 
+## Recommended extras
 
-### Tutorial for how to use the slow angle shader
+- First-aid kit
+- Extra insulating layers and emergency shelter
+- Navigation backup (paper map & compass, extra power)
+
+## About the author
+
+This content is not affiliated with any formal educational provider. The author holds AIARE Level II training (link or cert): please replace the placeholder link with your certificate or verification.
+
+## Tutorial: Using a slope-angle shader / inclinometer
+
+1. Open your gradient-shaded map (CalTopo, Gaia, etc.) and enable slope shading.
+2. Use an inclinometer app or the map's tools to measure the slope angle on your planned route.
+3. Treat slopes ≥ 30° as high-risk avalanche terrain and avoid travel there unless you have formal avalanche training and a conservative group decision process.
+
+More detailed examples and step-by-step screenshots can be added here.
+
+## Full intro {#full-intro}
+
+Replace this paragraph with a fuller introductory section describing objectives, scope, and intended audience.
